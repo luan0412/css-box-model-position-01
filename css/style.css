@@ -1,0 +1,21 @@
+img{
+    height: 500px;
+    width: 500px;
+    margin: 5px;
+    padding: 10px;
+}
+#cao1{
+    border: 2px solid aqua;   
+}
+#cao2{
+    border: 3px dotted red;
+}
+#cao3{
+    border: 4px dashed green;
+}
+#cao4{
+    border: 5px double black;
+}
+#cao5{
+    border: 6px inset orange;
+}
